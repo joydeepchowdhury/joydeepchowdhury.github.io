@@ -10,7 +10,7 @@ My Curriculum Vitae is [here](https://drive.google.com/open?id=1CK2_C9gHiO43MLXg
 
 **Email:** joydeepchowdhury01@gmail.com
 
-### Research Interests
+## Research Interests
 
 - Analysis of functional and other infinite dimensional data
 - Inference in high dimensional data
@@ -19,16 +19,17 @@ My Curriculum Vitae is [here](https://drive.google.com/open?id=1CK2_C9gHiO43MLXg
 - Statistical depths
 - Convergence rates in infinite dimensional spaces
 
-## Published articles
+## Articles
+### Published
 - Chowdhury, J., & Chaudhuri, P. (2019). Nonparametric depth and quantile regression for functional data. Bernoulli, 25(1), 395-423. [[Journal link](https://projecteuclid.org/euclid.bj/1544605251)][[arXiv link](https://arxiv.org/pdf/1607.03752.pdf)][[MATLAB programs](https://drive.google.com/open?id=17F-dMH4OxtmzsFI3w4kz477NHOmLXXHu)]
 - Chowdhury, J., & Chaudhuri, P. (2020). Convergence rates for kernel regression in infinite-dimensional spaces. Annals of the Institute of Statistical Mathematics, 72, 471-509. [[Journal link](https://link.springer.com/article/10.1007%2Fs10463-018-0697-2)][[arXiv link](https://arxiv.org/pdf/1610.09957.pdf)]
 - Chowdhury, J., & Chaudhuri, P. (2017). Nonparametric quantile regression for Banach-valued response. In Handbook of Quantile Regression (pp. 225-251). Chapman and Hall/CRC. [[Publisher link](https://www.taylorfrancis.com/books/e/9781315120256/chapters/10.1201/9781315120256-14)][[pdf](https://drive.google.com/open?id=1_5uiy6coCLewupIIvy1Gn5RPy9tlsCL5)]
 - Dihidar, K., & Chowdhury, J. (2013). Enhancing a randomized response model to estimate population means to sensitive questions. Mathematical Population Studies, 20(3), 123-136. [[Journal link](https://www.tandfonline.com/doi/full/10.1080/08898480.2013.816216)]
 
-### Accepted articles
+### Accepted
 Chowdhury, J., & Chaudhuri, P. Depth based inference on conditional distribution with infinite dimensional data. [[arXiv link](https://arxiv.org/pdf/1707.06578.pdf)][[R codes](https://drive.google.com/open?id=1-ICwKRYYA1zFdcWiLr9tqLIHFVMf4bd_)]
 
-### Articles under review
+### Under review
 - Chowdhury, J., Dutta, S., Arellano-Valle, R., Genton, M. Sub-Dimensional Mardia Measures of Multivariate Skewness and Kurtosis. [[arXiv link](file:///C:/Users/Joy/AppData/Local/Temp/2111.14441.pdf)]
 - Chowdhury, J., Chaudhuri, P. Multi-sample comparison using spatial signs for infinite dimensional data.
 
