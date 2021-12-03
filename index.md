@@ -1,5 +1,3 @@
-# Homepage of Joydeep Chowdhury
-
 I am a researcher in Statistics. I received my PhD from [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). My PhD supervisor was [Prof. Probal Chaudhuri](https://www.isical.ac.in/~probal/). My current research interests include statistical methods in high dimensional and infinite dimensional data, nonparametric inference and regression, quantile and statistical depth based methods, convergence rates of nonparametric estimates in infinite dimensional spaces, etc.
 
 Currently, I am a postdoctoral fellow in [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en). My mentor is [Prof. Marc Genton](https://www.kaust.edu.sa/en/study/faculty/marc-genton).
